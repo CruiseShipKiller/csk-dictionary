@@ -121,6 +121,35 @@
     margin-right: 4px;
   }
 
+  /* HEADER RIGHT-SIDE CONTROLS */
+  .header-controls {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-shrink: 0;
+  }
+  .podcast-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--accent);
+    text-decoration: none;
+    padding: 5px 11px;
+    border: 1.5px solid var(--accent);
+    border-radius: 20px;
+    white-space: nowrap;
+    transition: background 0.15s, color 0.15s, transform 0.1s;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .podcast-link:hover { background: var(--accent); color: #fff; }
+  .podcast-link:active { transform: scale(0.95); }
+  .podcast-icon { font-size: 12px; }
+
   /* DARK MODE TOGGLE */
   .theme-toggle {
     display: flex;
@@ -592,6 +621,16 @@
     line-height: 1.65;
     margin-bottom: 32px;
   }
+  .splash-link {
+    color: #ffd23f;
+    font-weight: 700;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(255, 210, 63, 0.45);
+    transition: opacity 0.15s;
+  }
+  .splash-link:visited { color: #ffd23f; }
+  .splash-link:hover, .splash-link:active { opacity: 0.8; }
+
   .splash-intro strong {
     color: #ffffff;
     font-weight: 700;
@@ -675,7 +714,7 @@
     <div class="splash-subtitle">Passenger Pocket Dictionary</div>
     <div class="splash-divider"></div>
     <p class="splash-intro">
-      You've paid good money to be on that ship. The least you can do is sound like you belong there. <strong>Cruise Ship Killer</strong> put together this dictionary so you know your aft from your elbow, never get caught calling the ship a boat, and can spot a chair hog from across the Lido deck. Whether you're a first-timer or a Pinnacle-chasing veteran, there's something here that'll make you look sharper at the sailaway party.
+      You've paid good money to be on that ship. The least you can do is sound like you belong there. <strong>Cruise Ship Killer</strong> <a class="splash-link" href="https://www.cruiseshipkiller.com/" target="_blank" rel="noopener">podcast</a> put together this dictionary so you know your aft from your elbow, never get caught calling the ship a boat, and can spot a chair hog from across the Lido deck. Whether you're a first-timer or a Pinnacle-chasing veteran, there's something here that'll make you look sharper at the sailaway party.
     </p>
     <button class="splash-enter-btn" onclick="enterDictionary()">
       Enter the Dictionary
@@ -694,10 +733,15 @@
       <span class="title-anchor"><span class="anchor-icon">⚓</span>Cruise Dictionary</span>
       <span class="title-sub">Pocket Reference</span>
     </div>
-    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode">
-      <span class="theme-icon">☀</span>
-      <div class="toggle-track"><div class="toggle-thumb"></div></div>
-      <span class="theme-icon">☾</span>
+    <div class="header-controls">
+      <a class="podcast-link" href="https://www.cruiseshipkiller.com/" target="_blank" rel="noopener" title="Listen to the Cruise Ship Killer podcast">
+        <span class="podcast-icon">🎧</span> Podcast
+      </a>
+      <div class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode">
+        <span class="theme-icon">☀</span>
+        <div class="toggle-track"><div class="toggle-thumb"></div></div>
+        <span class="theme-icon">☾</span>
+      </div>
     </div>
   </div>
   <div class="search-wrap">
