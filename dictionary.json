@@ -1,0 +1,1427 @@
+{
+  "version": "2026-06-22T18:34:44",
+  "categories": [
+    {
+      "name": "Behavior & Archetypes",
+      "icon": "🏊"
+    },
+    {
+      "name": "Cabin & Stateroom",
+      "icon": "🛏"
+    },
+    {
+      "name": "Dining",
+      "icon": "🍽"
+    },
+    {
+      "name": "Embarkation & Itinerary",
+      "icon": "⚓"
+    },
+    {
+      "name": "Onboard Account & Cards",
+      "icon": "💳"
+    },
+    {
+      "name": "Loyalty & Casino",
+      "icon": "🎰"
+    },
+    {
+      "name": "Crew Jargon",
+      "icon": "🪪"
+    },
+    {
+      "name": "Codes & Signals",
+      "icon": "📡"
+    },
+    {
+      "name": "Ship Anatomy",
+      "icon": "🚢"
+    },
+    {
+      "name": "Abbreviations & Forum Speak",
+      "icon": "💬"
+    },
+    {
+      "name": "Private Islands",
+      "icon": "🏝"
+    },
+    {
+      "name": "Sea Conditions & Motion",
+      "icon": "🌊"
+    },
+    {
+      "name": "Social Rituals & Events",
+      "icon": "🎉"
+    }
+  ],
+  "entries": [
+    {
+      "term": "Balcony Smoker",
+      "def": "A passenger who smokes on their private balcony despite cruise-line bans, often drawing complaints from neighboring cabins.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes",
+      "context": "Recurring pet peeve on r/royalcaribbean; nearly all major lines prohibit it and can issue fines."
+    },
+    {
+      "term": "Buffet Glutton / Buffet Hawk",
+      "def": "A passenger who piles plates well beyond what they can eat, or who hovers aggressively at the buffet line.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes",
+      "context": "Related term 'buffet licker' appeared in Carnival forums after viral stories of passengers contaminating serving utensils."
+    },
+    {
+      "term": "Chair Hog / Pool Pirate / Seat Saver / LCH",
+      "def": "A passenger who 'reserves' a poolside lounger by draping a towel, flip-flops, or a book on it, then disappears for hours. LCH (Lounge Chair Hog) is the forum abbreviation.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes",
+      "context": "Carnival's official ChairShare Team places a timed sticker on unattended chairs and removes belongings to the towel hut after 40 minutes. Norwegian has been documented actively pulling abandoned items."
+    },
+    {
+      "term": "Cruise Duck / Duck Hunt",
+      "def": "A passenger game of hiding small rubber ducks around the ship for others to find and keep or rehide.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes",
+      "context": "Started in March 2018 when 10-year-old Abby Davis hid 50 ducks on a Carnival sailing from Galveston. Her mother co-founded the 'Cruising Ducks – Original' Facebook group, now 264,000+ members. Now nearly universal across cruise lines."
+    },
+    {
+      "term": "Cruisebug",
+      "def": "The compulsion to immediately book another cruise the moment you disembark — or sometimes before the ship even docks.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Cruise Hangover / Post-Cruise Blues / PCD",
+      "def": "The low-grade melancholy that sets in after returning home when nobody is making your bed, folding towel animals, or bringing drinks on demand. PCD = Post-Cruise Depression.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Cruise Newbie / First-Timer / Cruise Virgin",
+      "def": "A passenger on their first sailing. Recognizable by asking questions veterans find obvious, e.g., calling the ship a 'boat.'",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Elevator Hog",
+      "def": "A passenger who shoves into a full elevator before letting people exit, or presses every floor button.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "The Love Boat Effect",
+      "def": "The cheerful, flirtatious, optimistic mood that overtakes passengers mid-cruise, named after the 1970s TV show set on the Pacific Princess.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Magnet Stealer",
+      "def": "A passenger who removes cabin door magnets or décor from other staterooms. A recurring Reddit grievance.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes",
+      "context": "Door decorating with themed magnets is a widespread custom, especially on Carnival and Disney sailings."
+    },
+    {
+      "term": "Mustard Drill",
+      "def": "A humorously common mispronunciation or misspelling of 'muster drill' by cruise newcomers. Veterans find it endearing. Occasionally.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Pier Runner / Dock Runner",
+      "def": "A passenger sprinting down the pier as the ship's horn sounds, having cut their port visit too close and nearly — or actually — missed all-aboard time. Also called a Dock Runner (DR) in forum shorthand.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes",
+      "context": "Cruise Critic dedicates recurring content to pier-runner stories. Royal Caribbean's app now includes a port-day countdown specifically to reduce incidents. The ship does not wait."
+    },
+    {
+      "term": "Aft Cabin / Wake View",
+      "def": "A stateroom at the ship's stern, typically with a balcony overlooking the ship's wake. Sought by veterans for the view and the relative quiet.",
+      "type": "nautical",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Balcony / Veranda",
+      "def": "A stateroom with a private outdoor space. Called 'veranda' on some luxury lines.",
+      "type": "nautical",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "French Balcony / Juliet Balcony",
+      "def": "A floor-to-ceiling sliding glass door with a railing flush to the hull — the illusion of a balcony with no actual outdoor standing space.",
+      "type": "passenger",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "GTY / Guarantee Cabin",
+      "def": "A booking option where you select a category (inside, oceanview, balcony, suite) but the cruise line assigns the specific cabin, often days before sailing. Usually cheaper; specific location is unknown until assignment.",
+      "type": "crew",
+      "cat": "Cabin & Stateroom",
+      "context": "Risk: possible obstructed-view cabin or inconvenient location. Reward: occasional upsell to a higher category."
+    },
+    {
+      "term": "The Haven (NCL)",
+      "def": "Norwegian Cruise Line's keycard-access luxury enclave featuring a private restaurant, bar, sundeck, and pool — a ship within a ship. Pioneered by NCL in 2005, named 'The Haven' in 2011.",
+      "type": "crew",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Hump Cabin / Bump Cabin",
+      "def": "A balcony cabin positioned on the outward curve ('hump') of a ship's midship section — typically featuring an oversized balcony and partial views toward both bow and stern.",
+      "type": "passenger",
+      "cat": "Cabin & Stateroom",
+      "context": "Particularly prized on Royal Caribbean's Voyager-, Radiance-, and Freedom-class ships. Heavily discussed on Cruise Critic and Cruise Addicts forums."
+    },
+    {
+      "term": "Inside / Interior Cabin",
+      "def": "A stateroom with no window or porthole — the most affordable cabin type. Often chosen by passengers who plan to spend little time in the room.",
+      "type": "nautical",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Junior Suite",
+      "def": "A larger stateroom that occupies a middle ground between a balcony and a full suite — sleeping and living areas separated, but not a fully distinct suite experience.",
+      "type": "crew",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Obstructed View",
+      "def": "A cabin whose window or balcony sight line is partially or fully blocked by lifeboats, davits, or ship structure. Usually sold at a discount.",
+      "type": "passenger",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Oceanview / Outside Cabin",
+      "def": "A stateroom with a window or porthole but no balcony.",
+      "type": "nautical",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Pullman / Murphy Bed",
+      "def": "A fold-down bunk or wall bed used for a 3rd or 4th occupant in a stateroom.",
+      "type": "crew",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "The Sanctuary (Princess)",
+      "def": "Princess Cruises' adults-only top-deck retreat. Expanded to a full 'Sanctuary Collection' ship-within-a-ship concept on newer Sun-class vessels.",
+      "type": "crew",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Spa Cabin",
+      "def": "A stateroom with spa access bundled into the booking — typically located near the ship's spa facility with added wellness perks.",
+      "type": "crew",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Studio Cabin",
+      "def": "A compact stateroom designed for solo travelers, eliminating the single supplement. Pioneered by Norwegian Cruise Line.",
+      "type": "crew",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Virtual Balcony",
+      "def": "An inside cabin fitted with a floor-to-ceiling HD screen showing a live exterior feed — the view without the balcony. Found on Royal Caribbean's Quantum-class ships and newer.",
+      "type": "crew",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Yacht Club (MSC)",
+      "def": "MSC Cruises' gated suite enclave with butler service, private restaurant, and a dedicated sundeck — described by MSC as 'an authentic ship within a ship.'",
+      "type": "crew",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Anytime / My Time / Freestyle Dining",
+      "def": "Open-seating dinner that lets you arrive when you want rather than on a fixed schedule. Called 'Anytime' on Princess, 'My Time' on Royal Caribbean, 'Select' on Celebrity, 'Freestyle' on Norwegian.",
+      "type": "crew",
+      "cat": "Dining"
+    },
+    {
+      "term": "Captain's Table",
+      "def": "The honor of dining with the ship's captain or senior officers in the main dining room — typically by invitation for longer voyages or repeat cruisers.",
+      "type": "crew",
+      "cat": "Dining"
+    },
+    {
+      "term": "Chef's Table",
+      "def": "A surcharge multi-course dining experience, often held in or near the galley, with direct interaction with the executive chef.",
+      "type": "crew",
+      "cat": "Dining"
+    },
+    {
+      "term": "DBP / PBP",
+      "def": "Deluxe Beverage Package / Premium Beverage Package — all-inclusive adult drink add-ons offered by Royal Caribbean and Celebrity respectively.",
+      "type": "passenger",
+      "cat": "Dining"
+    },
+    {
+      "term": "Early / Main Seating vs. Late / Second Seating",
+      "def": "Fixed dining times in the Main Dining Room — typically around 6 pm (early) and 8 pm (late). Pre-selected at booking.",
+      "type": "crew",
+      "cat": "Dining"
+    },
+    {
+      "term": "Galley",
+      "def": "The ship's kitchen. A working galley on a large ship may produce 20,000+ meals per day.",
+      "type": "nautical",
+      "cat": "Dining"
+    },
+    {
+      "term": "Lido Deck",
+      "def": "The outdoor pool and buffet deck. From the Italian word for beach. Carnival calls its buffet the 'Lido Marketplace'; Holland America popularized the name.",
+      "type": "nautical",
+      "cat": "Dining"
+    },
+    {
+      "term": "MDR — Main Dining Room",
+      "def": "The ship's primary sit-down restaurant, included in the fare. The single most-used abbreviation in cruise forums.",
+      "type": "crew",
+      "cat": "Dining"
+    },
+    {
+      "term": "Specialty / Alternative Dining",
+      "def": "Extra-cost restaurants beyond the MDR — Chops Grille, Cagney's Steakhouse, Pinnacle Grill, Tuscan Grille, etc.",
+      "type": "crew",
+      "cat": "Dining"
+    },
+    {
+      "term": "Washy Washy",
+      "def": "The crew greeting at the buffet entrance requiring passengers to use hand sanitizer before entering. Now universally recognized by veteran cruisers. Originated on Royal Caribbean following norovirus protocol crackdowns after 2002.",
+      "type": "crew",
+      "cat": "Dining",
+      "context": "Delivered in a cheerful, sing-song tone — typically 'Washy washy, happy happy!' — by crew stationed at the Windjammer or Lido entrance. Veterans use it affectionately; new cruisers are sometimes surprised by the energy."
+    },
+    {
+      "term": "Windjammer",
+      "def": "Royal Caribbean's branded buffet restaurant. Among RCCL enthusiasts, 'Windjammer' is sometimes used generically for any ship buffet.",
+      "type": "crew",
+      "cat": "Dining"
+    },
+    {
+      "term": "All-Aboard Time",
+      "def": "The mandatory return deadline for passengers at a port of call — typically 30 to 60 minutes before posted departure. The ship does not wait.",
+      "type": "crew",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "B2B / Back-to-Back",
+      "def": "Two consecutive sailings on the same ship, allowing passengers to remain onboard through turnaround day. B2B2B = three sailings in a row.",
+      "type": "passenger",
+      "cat": "Embarkation & Itinerary",
+      "context": "Passengers staying aboard between segments are called 'in-transit' passengers and follow a separate process on turnaround day."
+    },
+    {
+      "term": "Closed-Loop Sailing",
+      "def": "A cruise that departs and returns to the same U.S. port. Relevant for passport requirements — U.S. citizens on closed-loop sailings to certain destinations may sail with a birth certificate instead of a passport.",
+      "type": "crew",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "Cruisetour",
+      "def": "A cruise combined with a pre- or post-sailing land itinerary packaged by the line. Common in Alaska and Europe.",
+      "type": "crew",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "Debarkation / Disembarkation",
+      "def": "The process of leaving the ship on the final day. Technically 'debark' is the correct nautical term; 'disembark' is more common in everyday use and even cruise-line marketing.",
+      "type": "nautical",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "Embarkation Day",
+      "def": "Day 1 — the day passengers board the ship. Often the most chaotic and most exciting day of a sailing.",
+      "type": "crew",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "Port Day",
+      "def": "A sailing day when the ship is docked or tendered at a port of call.",
+      "type": "crew",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "Port of Call",
+      "def": "Each destination stop on the cruise itinerary.",
+      "type": "nautical",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "Repo / Repositioning Cruise",
+      "def": "A one-way sailing moving the ship between seasonal homeports — e.g., from the Caribbean to Europe in spring. Typically priced low per day with many sea days and few ports.",
+      "type": "passenger",
+      "cat": "Embarkation & Itinerary",
+      "context": "Popular with experienced cruisers who prefer sea days and value. Not for passengers who want frequent port stops."
+    },
+    {
+      "term": "Sailaway / Sailaway Party",
+      "def": "The informal deck celebration as the ship departs port on Day 1. Music, drinks, and the collective anticipation of leaving land behind.",
+      "type": "passenger",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "Sea Day",
+      "def": "A full day at sea with no port stop — a chance to use the ship's amenities without crowds ashore.",
+      "type": "crew",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "Shorex / Shore Excursion",
+      "def": "A guided land tour or activity at a port of call. Can be booked through the cruise line (pricier, guaranteed ship wait if delayed) or independently (cheaper, no guarantee).",
+      "type": "crew",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "TA / Transatlantic",
+      "def": "A crossing between Europe and the Americas. Also abbreviates 'Travel Agent' — context determines which. A classic repositioning route.",
+      "type": "passenger",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "Tender / Tender Port",
+      "def": "A small ferry shuttle used when the ship anchors offshore and passengers are ferried to land, rather than docking. Common at Grand Cayman, Cabo San Lucas, and Santorini.",
+      "type": "nautical",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "Wave Season",
+      "def": "January through March — the cruise industry's biggest promotional booking window, when lines roll out their best pricing and perks. Considered the cruise equivalent of retail's Black Friday.",
+      "type": "crew",
+      "cat": "Embarkation & Itinerary"
+    },
+    {
+      "term": "Cashless / Cashless Sailing",
+      "def": "The standard onboard payment model — all purchases charged to your cabin account via your cruise card, not cash.",
+      "type": "crew",
+      "cat": "Onboard Account & Cards"
+    },
+    {
+      "term": "Cruise Card",
+      "def": "Your all-in-one room key, ship ID, and payment card. Called a SeaPass on Royal Caribbean, Sail & Sign on Carnival, Key to the World on Disney, and Ocean Medallion (wearable disc) on Princess.",
+      "type": "crew",
+      "cat": "Onboard Account & Cards"
+    },
+    {
+      "term": "FCC — Future Cruise Credit",
+      "def": "A voucher issued by the cruise line toward a future booking, typically in lieu of a cash refund for a cancellation.",
+      "type": "crew",
+      "cat": "Onboard Account & Cards"
+    },
+    {
+      "term": "Gratuities / Auto-Tips / DSC",
+      "def": "A daily per-person charge added automatically to your onboard account to cover crew gratuities. Called the Daily Service Charge (DSC) on Norwegian. Amounts and policies vary by line and can usually be pre-paid or adjusted.",
+      "type": "crew",
+      "cat": "Onboard Account & Cards"
+    },
+    {
+      "term": "OBC — Onboard Credit",
+      "def": "Free spending money applied to your onboard account — typically from a booking promotion, travel agent perk, Future Cruise Credit, or compensation. The most-cited abbreviation in cruise glossaries.",
+      "type": "crew",
+      "cat": "Onboard Account & Cards"
+    },
+    {
+      "term": "Onboard Account / Shipboard Account",
+      "def": "The running folio of charges accumulated during your sailing — drinks, specialty dining, spa, casino, excursions. Settled at the end.",
+      "type": "crew",
+      "cat": "Onboard Account & Cards"
+    },
+    {
+      "term": "Captain's Club (Celebrity)",
+      "def": "Celebrity Cruises' loyalty program with five tiers culminating in Zenith.",
+      "type": "crew",
+      "cat": "Loyalty & Casino"
+    },
+    {
+      "term": "Carnival Players Club",
+      "def": "Carnival's casino loyalty program. Offers 'casino rate' pricing and tiered comps for tracked play — separate from the VIFP sailing loyalty program.",
+      "type": "crew",
+      "cat": "Loyalty & Casino"
+    },
+    {
+      "term": "Casino Rate / Casino Comp",
+      "def": "A free or deeply discounted cruise offer earned through tracked casino play. Available through programs like Club Royale (Royal Caribbean) and Carnival Players Club. Limited cabins; time-sensitive offers.",
+      "type": "crew",
+      "cat": "Loyalty & Casino",
+      "context": "Offers arrive by email or mail after a qualifying sailing. Booking quickly matters — casino-rate cabins are limited and separate from general inventory."
+    },
+    {
+      "term": "Castaway Club (Disney)",
+      "def": "Disney Cruise Line's loyalty program with four tiers: Silver, Gold, Platinum, and Pearl.",
+      "type": "crew",
+      "cat": "Loyalty & Casino"
+    },
+    {
+      "term": "Cheers! / Cheers Package",
+      "def": "Carnival Cruise Line's all-inclusive beverage package, covering alcoholic and non-alcoholic drinks up to a per-drink price threshold.",
+      "type": "crew",
+      "cat": "Loyalty & Casino"
+    },
+    {
+      "term": "Club Royale (RCCL)",
+      "def": "Royal Caribbean's casino loyalty program, providing tiered perks, cruise credits, and casino-rate offers based on play.",
+      "type": "crew",
+      "cat": "Loyalty & Casino"
+    },
+    {
+      "term": "Crown & Anchor / C&A (RCCL)",
+      "def": "Royal Caribbean's loyalty program with six tiers: Gold, Platinum, Emerald, Diamond, Diamond Plus, and Pinnacle Club — the top tier at 700 cruise points.",
+      "type": "crew",
+      "cat": "Loyalty & Casino",
+      "context": "Pinnacle Club members earn milestone certificates for free or credited cruises. The program introduced 'Points Choice' in 2026, letting members direct points across Royal Caribbean Group brands."
+    },
+    {
+      "term": "Points Choice",
+      "def": "Royal Caribbean Group's 2026 loyalty feature allowing members to direct earned cruise points to whichever sister-brand program (Royal Caribbean, Celebrity, Silversea) they choose.",
+      "type": "crew",
+      "cat": "Loyalty & Casino",
+      "context": "Effective for sailings departing on or after January 30, 2026."
+    },
+    {
+      "term": "Premier Offer (Carnival Casino)",
+      "def": "Carnival's mid-tier invitation-only casino package offering priority debarkation, pre-cruise gifts, and a Welcome Aboard party — available on voyages of six days or longer for more active casino players.",
+      "type": "crew",
+      "cat": "Loyalty & Casino"
+    },
+    {
+      "term": "Status Match",
+      "def": "The ability to transfer loyalty status between affiliated cruise lines. Royal Caribbean Group introduced cross-brand status matching in 2024, allowing top-tier Zenith (Celebrity) and Pinnacle (RCCL) members to match across all three RCG brands.",
+      "type": "crew",
+      "cat": "Loyalty & Casino"
+    },
+    {
+      "term": "VIFP — Very Important Fun Person (Carnival)",
+      "def": "Carnival's passenger loyalty program. Tiers run Blue → Red → Gold → Platinum → Diamond.",
+      "type": "crew",
+      "cat": "Loyalty & Casino"
+    },
+    {
+      "term": "All Access Tour",
+      "def": "A paid behind-the-scenes ship tour for passengers, covering the I-95 crew corridor, the galley, the bridge, and crew areas. Offered on Royal Caribbean and other lines.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Andiamo",
+      "def": "'Let's go' in Italian — imported from Italian officers, ubiquitous in crew speech across nationalities as a call to move quickly.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Banana",
+      "def": "Crew slang for getting in trouble with a superior or authority figure. 'Getting a banana' means you've been reprimanded.",
+      "type": "crew",
+      "cat": "Crew Jargon",
+      "context": "Origin unclear but consistent across multiple crew-side sources."
+    },
+    {
+      "term": "Bomboclat",
+      "def": "Jamaican expression for shock, surprise, or emphasis — heavily used by Caribbean crew members in casual conversation.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Brata",
+      "def": "Crew slang meaning 'in trouble,' 'overwhelmed,' or 'in a mess.' Usage varies somewhat by nationality of the speaker.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Burro",
+      "def": "The mobile side-stand used by waitstaff — Spanish for 'donkey,' referencing the workhorse function of the cart.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Cheapatone",
+      "def": "Crew slang for a notoriously stingy guest — one who tips poorly, requests extra amenities constantly, and leaves little to nothing at the end of the voyage.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Crew Bar / Crew Mess / Staff Mess / Officers' Mess",
+      "def": "Hierarchical crew-only social and dining rooms below the passenger decks. Officers' mess trends Western/Scandinavian cuisine; the crew mess rotates based on the ship's dominant crew nationalities.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "I-95",
+      "def": "The main crew corridor running bow-to-stern on the lowest passenger-adjacent deck — named after the U.S. East Coast interstate for its traffic and length. The artery of ship operations; passengers rarely see it.",
+      "type": "crew",
+      "cat": "Crew Jargon",
+      "context": "Visible to passengers on Royal Caribbean's All Access Tour. On large ships it runs hundreds of feet and is the primary route for crew, luggage, and supplies."
+    },
+    {
+      "term": "Kakaria",
+      "def": "Crew slang covering two distinct things: tedious administrative tasks, paperwork, or bureaucratic nonsense; and elaborate or fussy garnishes on food and drinks. Both uses share the same implication — unnecessary excess that makes the job harder.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Mafia",
+      "def": "A crew member's informal favor network — fellow countrymen or trusted shipmates who can arrange extra food, schedule flexibility, or amenities. Every long-term crew member has one.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Paisano",
+      "def": "A crew member's countryman — an automatic member of your mafia. From Italian; used broadly across crew nationalities.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Pax",
+      "def": "Crew shorthand for passengers. 'Pax count' = total passengers aboard. From Latin passagarius.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Port Manning",
+      "def": "Maritime regulation requiring a minimum crew complement to remain aboard when the ship is in port, for safety and security.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Sign On / Sign Off",
+      "def": "Joining the ship at the start of a crew contract (sign on) or departing at its end (sign off). Contracts typically run 4–9 months.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "The Shirts",
+      "def": "Informal crew reference to ship's officers, identified by the gold stripe epaulettes on their uniform shirts — the number of stripes indicating rank.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Cabin Steward / Stateroom Attendant",
+      "def": "The crew member responsible for cleaning and maintaining your cabin, delivering towel animals, and responding to in-room requests.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Towel Animal",
+      "def": "An origami-style sculpture made from bath towels — mice, elephants, swans, monkeys — left on the bed during turndown service. A beloved cruise tradition.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Turn-Down Service",
+      "def": "Evening cabin preparation service — folding down the bed, leaving towel animals, and refreshing amenities. Reduced to once-daily housekeeping on Carnival and Norwegian since 2022 for many cabin categories.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Alpha, Alpha, Alpha",
+      "def": "PA code for a medical emergency requiring the medical team. Used by Royal Caribbean and others.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Bill W. Meeting / Friends of Bill W.",
+      "def": "Discreet code for an Alcoholics Anonymous meeting aboard the ship, named after AA co-founder Bill Wilson. Listed in the daily program to allow members to find each other without public identification.",
+      "type": "crew",
+      "cat": "Codes & Signals",
+      "context": "Typically held in a quiet morning lounge slot. Friends of Jimmy K. is the equivalent for Narcotics Anonymous."
+    },
+    {
+      "term": "Bravo, Bravo, Bravo",
+      "def": "PA code for a fire onboard. Repeated three times to signal crew response without alarming passengers. Disney uses 'Red Parties.'",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Code Adam",
+      "def": "Lost or missing child onboard — named after Adam Walsh. Triggers ship-wide crew search protocol.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Code Orange",
+      "def": "Early-stage containment of a gastrointestinal illness outbreak (typically norovirus). The buffet shifts from self-service to crew-served; enhanced sanitation begins.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Code Red",
+      "def": "Full activation for a gastrointestinal illness outbreak — pools and hot tubs may close, self-service buffet stops, and deep cleaning is ongoing throughout the ship.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Code Zulu / Zulu, Zulu, Zulu",
+      "def": "PA code indicating a physical altercation or fight onboard, calling security to a specific location.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Friends of Dorothy",
+      "def": "Historical code used in cruise daily programs to signal an LGBTQ+ meet-up gathering — referencing Dorothy Gale from The Wizard of Oz. Largely retired post-2020; most lines now list these gatherings explicitly.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Mr. MOB / Oscar, Oscar, Oscar",
+      "def": "Code for man overboard — triggers immediate bridge response, engine stop, and crew deployment. Mr. MOB is the discreet PA version; Oscar is used by some lines.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Muster / Muster Drill",
+      "def": "The mandatory pre-sailing safety briefing and assembly drill, required by international maritime law (SOLAS). Passengers learn their muster station and emergency procedures. Most lines now permit e-mustering via app.",
+      "type": "nautical",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Operation Bright Star",
+      "def": "Code for a severe medical emergency — cardiac event, stroke, or similar — or a passenger death onboard. Triggers the medical team and may require diverting the ship.",
+      "type": "crew",
+      "cat": "Codes & Signals",
+      "context": "One of a family of 'Star' codes used across the industry. Related codes include Operation Rising Star and Fallen Star; exact usage and line attribution vary. Code Alpha covers the same medical emergency function on some lines."
+    },
+    {
+      "term": "Operation Rising Star",
+      "def": "Code indicating a severe medical emergency or passenger death onboard. If a death, the deceased remains in the ship's mortuary until the next suitable port for repatriation.",
+      "type": "crew",
+      "cat": "Codes & Signals",
+      "context": "One of a family of 'Star' codes used across the industry alongside Operation Bright Star and Fallen Star. Exact meaning and line attribution vary. Large ships see multiple passenger deaths per season, predominantly among elderly long-voyage passengers."
+    },
+    {
+      "term": "PVI / Code V",
+      "def": "Public Vomiting Incident — the crew call for a sanitation team. A hazard of sea days and open-bar sailings.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Aft",
+      "def": "The rear of the ship. Aft cabins offer wake views; aft-facing balconies are prized by experienced cruisers.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Atrium / Centrum",
+      "def": "The multi-deck open lobby at a ship's center. Royal Caribbean calls theirs the 'Centrum.' Often the site of entertainment and the ship's central staircase.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Beam",
+      "def": "The width of the ship at its widest point.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Bow / Forward",
+      "def": "The front of the ship. Forward cabins are close to the bow and can experience more ship motion in rough seas.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Bridge",
+      "def": "The command center from which the ship is navigated and operated by the captain and officers.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Brig",
+      "def": "The ship's onboard holding cell for unruly or dangerous passengers. Rarely used, but present on all major vessels.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Davits",
+      "def": "The crane-like structures that hold and lower the lifeboats. Obstructed-view cabins typically sit adjacent to davits.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Draft",
+      "def": "The depth of the ship below the waterline — determines which ports and canals are accessible.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Dry Dock",
+      "def": "A scheduled period during which the ship is hauled from the water for maintenance, repairs, or refurbishment. Ships typically undergo dry dock every few years.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Funnel",
+      "def": "The ship's smokestack. Major cruise lines use the funnel as a brand identifier — Carnival's whale tail, RCCL's crown, NCL's red dot.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Gangway",
+      "def": "The ramp or staircase connecting the ship to the dock or a tender. 'Walking the gangway' means boarding or departing.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Hull",
+      "def": "The main body of the ship — the watertight shell from keel to deck.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Knot",
+      "def": "One nautical mile per hour (1.15 mph). A ship cruising at 22 knots is traveling about 25 mph.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Midship",
+      "def": "The middle section of the ship — the most stable area and the recommended location for passengers prone to seasickness.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Panamax / Neo-Panamax",
+      "def": "Ship-size classifications based on the Panama Canal locks. Panamax fits the original locks; Neo-Panamax fits the expanded 2016 locks. Ships larger than either cannot transit the canal.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Port / Starboard",
+      "def": "Left / right when facing forward toward the bow. Mnemonic: 'port' and 'left' both have four letters.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Promenade Deck",
+      "def": "A wraparound outdoor walking deck encircling the ship — a classic feature of older vessels and a beloved spot for early-morning laps.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Stabilizers",
+      "def": "Retractable underwater fins extending from the ship's hull to reduce rolling in rough seas.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "Wake",
+      "def": "The disturbed water trail left behind a moving ship. Watching the wake from an aft balcony is a favored pastime on sea days.",
+      "type": "nautical",
+      "cat": "Ship Anatomy"
+    },
+    {
+      "term": "B2B",
+      "def": "Back-to-Back — two consecutive cruises on the same ship.",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "CCL",
+      "def": "Carnival Cruise Line (also the NYSE ticker for Carnival Corporation).",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "CLIA",
+      "def": "Cruise Lines International Association — the industry's main trade body.",
+      "type": "crew",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "DCL",
+      "def": "Disney Cruise Line.",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "DSC",
+      "def": "Daily Service Charge — Norwegian Cruise Line's term for auto-gratuity.",
+      "type": "crew",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "FCC",
+      "def": "Future Cruise Credit.",
+      "type": "crew",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "FTTF",
+      "def": "Faster to the Fun — Carnival's priority boarding and debarkation add-on.",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "GTY",
+      "def": "Guarantee cabin booking — category guaranteed, specific cabin assigned by the line.",
+      "type": "crew",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "HAL",
+      "def": "Holland America Line.",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "JS",
+      "def": "Junior Suite.",
+      "type": "crew",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "MDR",
+      "def": "Main Dining Room.",
+      "type": "crew",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "MSC",
+      "def": "MSC Cruises (Mediterranean Shipping Company).",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "NCL / NCLH",
+      "def": "Norwegian Cruise Line / Norwegian Cruise Line Holdings (parent company).",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "OBC",
+      "def": "Onboard Credit.",
+      "type": "crew",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "OS",
+      "def": "Ocean Suite.",
+      "type": "crew",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "PCL",
+      "def": "Princess Cruise Line.",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "PVP",
+      "def": "Personal Vacation Planner — Carnival's in-house sales agents.",
+      "type": "crew",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "RCCL / RCI",
+      "def": "Royal Caribbean International (RCI) / Royal Caribbean Cruise Line (RCCL). Both in common use; the line officially uses 'Royal Caribbean International.'",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "RCG",
+      "def": "Royal Caribbean Group — the parent company of Royal Caribbean International, Celebrity Cruises, and Silversea.",
+      "type": "crew",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "TA",
+      "def": "Travel Agent OR Transatlantic — context determines which. Critical distinction in booking discussions.",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "VIFP",
+      "def": "Very Important Fun Person — Carnival's passenger loyalty program designation.",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "Castaway Cay / CC",
+      "def": "Disney Cruise Line's private island in the Bahamas. DCL's marquee port of call; 'CC' in Disney cruise forums refers here (not to Concierge Class or CruiseCritic).",
+      "type": "crew",
+      "cat": "Private Islands"
+    },
+    {
+      "term": "Cay",
+      "def": "A small, low sandy island — pronounced 'key.' Most cruise line private islands are technically cays.",
+      "type": "nautical",
+      "cat": "Private Islands"
+    },
+    {
+      "term": "Celebration Key",
+      "def": "Carnival Cruise Line's private destination on Grand Bahama Island, opened in 2025.",
+      "type": "crew",
+      "cat": "Private Islands"
+    },
+    {
+      "term": "CocoCay / Perfect Day at CocoCay",
+      "def": "Royal Caribbean's private island destination in the Bahamas, extensively developed with water parks, thrill slides, and the Hideaway Beach adults-only section.",
+      "type": "crew",
+      "cat": "Private Islands"
+    },
+    {
+      "term": "Great Stirrup Cay / Harvest Caye",
+      "def": "Norwegian Cruise Line's two private island destinations — Great Stirrup Cay in the Bahamas and Harvest Caye off Belize.",
+      "type": "crew",
+      "cat": "Private Islands"
+    },
+    {
+      "term": "Half Moon Cay",
+      "def": "A private Bahamian island shared by Holland America Line and Carnival Cruise Line.",
+      "type": "crew",
+      "cat": "Private Islands"
+    },
+    {
+      "term": "Ocean Cay MSC Marine Reserve",
+      "def": "MSC Cruises' private island in the Bahamas, developed as a marine conservation reserve alongside passenger amenities.",
+      "type": "crew",
+      "cat": "Private Islands"
+    },
+    {
+      "term": "Princess Cays",
+      "def": "Princess Cruises' private Bahamian beach destination on Eleuthera.",
+      "type": "crew",
+      "cat": "Private Islands"
+    },
+    {
+      "term": "Beaufort Scale",
+      "def": "The standard 0–12 wind measurement scale used in maritime reporting. Force 6 (strong breeze) starts to affect passenger comfort; Force 8+ is a gale.",
+      "type": "nautical",
+      "cat": "Sea Conditions & Motion"
+    },
+    {
+      "term": "Following Sea",
+      "def": "Waves moving in the same direction as the ship — generally smoother than a beam sea or head sea.",
+      "type": "nautical",
+      "cat": "Sea Conditions & Motion"
+    },
+    {
+      "term": "Land Legs / Mal de Débarquement",
+      "def": "The post-cruise sensation of the ground still swaying after disembarking — a neurological adaptation reversal. Can persist for days.",
+      "type": "passenger",
+      "cat": "Sea Conditions & Motion"
+    },
+    {
+      "term": "Pitch",
+      "def": "The forward-to-back rocking motion of the ship. Bow-heavy in head seas.",
+      "type": "nautical",
+      "cat": "Sea Conditions & Motion"
+    },
+    {
+      "term": "Roll",
+      "def": "The side-to-side motion of the ship. Minimized by stabilizers but unavoidable in beam seas.",
+      "type": "nautical",
+      "cat": "Sea Conditions & Motion"
+    },
+    {
+      "term": "Sea Legs",
+      "def": "The body's adaptation to the ship's motion — finding your balance and steadiness on a moving deck. Usually develops within 24–48 hours.",
+      "type": "passenger",
+      "cat": "Sea Conditions & Motion"
+    },
+    {
+      "term": "Bacon Police",
+      "def": "Buffet staff who portion out bacon one or two strips at a time rather than leaving it fully self-serve. A universal cruise passenger grievance.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes",
+      "context": "A recurring joke on Cruise Critic and Reddit — the bacon police are both mocked and, quietly, appreciated for keeping the supply from vanishing in sixty seconds."
+    },
+    {
+      "term": "Rum Runners",
+      "def": "Flexible plastic flasks or similar concealable containers used to smuggle alcohol onboard against cruise line rules. Named for their purpose.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes",
+      "context": "Widely discussed on Cruise Critic and passenger forums. Cruise line security has become adept at spotting them in luggage scans. The naughty room is often the result."
+    },
+    {
+      "term": "Ship, Not Boat",
+      "def": "The correction veteran cruisers reflexively deliver whenever a newcomer calls the ship a 'boat.' Half-serious, half tribal — a quick signal of experience.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes",
+      "context": "A ship is self-propelled and large enough to carry boats. By maritime convention, a boat is small enough to be carried on a ship. Most veterans will tell you this whether you asked or not."
+    },
+    {
+      "term": "Upside-Down Pineapple",
+      "def": "A signal — typically via door magnet, tote bag, or cabin décor — associated in cruise communities with the swinger or lifestyle community. An upright pineapple is just a pineapple.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes",
+      "context": "Well documented on Cruise Critic and Reddit. Many passengers display pineapple décor entirely innocently; context and placement matter. The upside-down version specifically carries the connotation."
+    },
+    {
+      "term": "Ship Within a Ship",
+      "def": "Passenger shorthand for any suite-only enclave with restricted-access amenities — private restaurant, dedicated pool, lounge, concierge. The Haven (NCL), Yacht Club (MSC), and The Sanctuary (Princess) are the major examples.",
+      "type": "passenger",
+      "cat": "Cabin & Stateroom",
+      "context": "The concept has expanded significantly since NCL introduced The Haven in 2005. Passengers use the phrase generically regardless of which line they're on."
+    },
+    {
+      "term": "Stateroom",
+      "def": "A passenger cabin. Used interchangeably with 'cabin' in everyday speech; 'stateroom' is the preferred marketing term across most cruise lines. Either is correct — 'room' alone tends to mark a newcomer.",
+      "type": "crew",
+      "cat": "Cabin & Stateroom"
+    },
+    {
+      "term": "Naughty Room",
+      "def": "Passenger slang for the holding area where flagged luggage is sent after security scanners flag prohibited items — most often alcohol, but also other contraband.",
+      "type": "passenger",
+      "cat": "Embarkation & Itinerary",
+      "context": "Passengers whose bags land in the naughty room must report in person to claim them, usually after an awkward conversation with security. Rum runners frequently end their journey here."
+    },
+    {
+      "term": "E-Muster / Muster 2.0",
+      "def": "The modernized digital safety drill that replaced the traditional all-hands-on-deck muster. Passengers complete a safety briefing via the cruise line app before or shortly after boarding, then check in physically at their muster station — without the mass crowd assembly.",
+      "type": "crew",
+      "cat": "Codes & Signals",
+      "context": "Accelerated by the COVID-19 pandemic. Royal Caribbean calls it 'eMuster'; other lines use 'Muster 2.0' or similar branding. Widely praised by repeat cruisers who dreaded the old format."
+    },
+    {
+      "term": "Cabin Crawl",
+      "def": "A passenger-organized tour of multiple stateroom types, arranged through a sailing's roll call. Participants open their cabins for visiting so others can compare categories — inside vs. balcony vs. suite.",
+      "type": "passenger",
+      "cat": "Social Rituals & Events",
+      "context": "Popular with first-timers deciding whether to upgrade on a future sailing, and with veterans who just enjoy the community aspect. Usually scheduled for the first sea day."
+    },
+    {
+      "term": "Formal Night",
+      "def": "A scheduled dress-up evening in the Main Dining Room, traditionally featuring suits, gowns, and the captain's reception. Still observed on most traditional lines; more relaxed or optional on contemporary ones.",
+      "type": "passenger",
+      "cat": "Social Rituals & Events",
+      "context": "A perennial debate topic on cruise forums — how formal is formal enough? Carnival has largely moved away from it; Cunard still enforces black tie. Most lines now call it 'elegant night' to lower the pressure."
+    },
+    {
+      "term": "Roll Call",
+      "def": "A pre-cruise online thread or group — typically on Cruise Critic or Facebook — where passengers booked on the same sailing connect before departure. Used to coordinate cabin crawls, group excursions, slot pulls, and meet-and-greets.",
+      "type": "passenger",
+      "cat": "Social Rituals & Events",
+      "context": "One of the most practically useful passenger community tools. Active roll calls for popular sailings can have hundreds of participants months before departure."
+    },
+    {
+      "term": "Slot Pull",
+      "def": "A group casino activity organized through a roll call or meet-and-greet: passengers pool an equal buy-in, take turns spinning a single slot machine, and split any winnings evenly.",
+      "type": "passenger",
+      "cat": "Social Rituals & Events",
+      "context": "More social than financial in practice — the appeal is the shared experience and the drama of near-misses. Results are split regardless of who pushed the button."
+    },
+    {
+      "term": "White Night / White Party",
+      "def": "A themed evening — typically on the pool deck — where passengers are invited to dress in white. Line-specific variants include White Hot Night (Royal Caribbean), Bianco (MSC), and Glow Party (Norwegian).",
+      "type": "passenger",
+      "cat": "Social Rituals & Events",
+      "context": "One of the most photographed nights of any sailing. Passengers who forget to pack white clothing improvise creatively. The all-white dress code makes for striking group photos against the ocean backdrop."
+    },
+    {
+      "term": "10LBS",
+      "def": "Passenger shorthand for the weight gain expected — and routinely achieved — on a cruise. The joke is that ten pounds is simply the cost of entry for a week at sea.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Balcony Club",
+      "def": "Passenger euphemism for couples who have had sex on their private cabin balcony. Membership is self-reported, often on social media, and the bar for entry is low.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Balcony in the Buff / BITB",
+      "def": "Standing or relaxing naked on a private cabin balcony. Common enough to have its own phrase and forum abbreviation (BITB). Neighboring balcony passengers may or may not appreciate it.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Board as Passengers, Leave as Cargo",
+      "def": "A passenger joke about buffet excess — the implication being that the weight gained may require mechanical assistance on debarkation day.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Budgie Smugglers",
+      "def": "Australian slang for men's tight Speedo-style swimwear — the name implying the wearer has managed to conceal a small parakeet in the garment. Encountered on the pool deck regardless of whether the physique supports the choice.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Buffet Queen / BQ",
+      "def": "A passenger who treats the ship's buffet as a full-time occupation — hovering, returning repeatedly, approaching the plate logistics with genuine strategy. Abbreviated BQ in cruise forums.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Elevenerifes",
+      "def": "Passenger slang for the one-upper type: if you've been to Tenerife, they've been to Elevenerife. A universal archetype applied to any destination, ship, or experience.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Fashion Police",
+      "def": "Passengers who scrutinize and judge what others are wearing on formal or elegant night — typically vocal about violations, rarely reflective about their own compliance.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Sea Air Shrinks Clothes",
+      "def": "The standard passenger explanation for why clothing no longer fits correctly midway through a cruise. The sea air is almost never the culprit.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Selfish Sticks",
+      "def": "Passenger slang for selfie sticks — specifically for how they're deployed: extended horizontally into crowds, blocking sightlines, nearly removing nearby faces.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "SpA / Speedo Alert",
+      "def": "Passenger shorthand for alerting others to someone on the pool deck in aggressively tight Speedo-style swimwear. Companion term to Budgie Smugglers. Circulates in cruise forums and group chats.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Stewart",
+      "def": "A common passenger mispronunciation or misspelling of 'steward' — as in cabin steward. Veteran cruisers notice it immediately; crew generally do not correct it.",
+      "type": "passenger",
+      "cat": "Behavior & Archetypes"
+    },
+    {
+      "term": "Horizontal Court",
+      "def": "Passenger nickname for Princess Cruises' Horizon Court buffet. The wordplay: guests exit horizontally after overindulging.",
+      "type": "passenger",
+      "cat": "Dining"
+    },
+    {
+      "term": "Paddock",
+      "def": "Australian passenger slang for the ship's buffet — the comparison being to a field where livestock graze. The guests in this metaphor are not flattered.",
+      "type": "passenger",
+      "cat": "Dining"
+    },
+    {
+      "term": "A La Cartuch",
+      "def": "Crew slang meaning excellent, top quality, or exactly right. Used as general-purpose approval across crew nationalities.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Amo",
+      "def": "Tagalog for master or boss — used shipboard to refer to a direct supervisor or manager. Widely understood across crew nationalities regardless of who is speaking.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Babalu / Babalina",
+      "def": "Crew slang for a fool or someone who has done something obviously wrong. Babalu is the standard form; Babalina is the feminine variant. Deployed as light teasing after a mistake more often than as a genuine insult.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Cones",
+      "def": "Crew slang for passengers — specifically for how they move: slowly, unpredictably, stopping without warning in high-traffic corridors. The reference is to orange traffic cones.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Company Rich",
+      "def": "A crew expression used when equipment is accidentally broken or supplies wasted — meaning 'the company can afford it.' Said mostly in jest; nobody actually believes it.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Fix",
+      "def": "Crew slang with two uses: to quietly take something from another crew member's station, or to plan retaliation against someone who wronged you. Context makes clear which.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Going to Church",
+      "def": "Crew euphemism for going to the crew bar after a long shift. The regularity and devotion implied by the phrase is not accidental.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Gordo",
+      "def": "Spanish for fat — used in crew slang to describe a noticeably overweight passenger. Not deployed within earshot of the subject.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Kaboomba",
+      "def": "Crew slang for food cooked well past the point of doneness — a steak turned to charcoal, bread burned through. The word is roughly onomatopoeic for the result.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "La Ge Ge",
+      "def": "Crew expression for being slammed — extremely busy, running behind, or fully in the weeds. Sometimes described as 'running like chickens.' Not a casual state.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Mamagaio",
+      "def": "Derived from Tagalog — a crew member who disappears during a shift: hiding in their cabin, killing time, or avoiding work while technically on duty.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Mambruko",
+      "def": "Crew slang for an idiot or someone acting foolishly. Depending on relationship and tone, can be a genuine insult or a playful jab.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Mucho Trabaho, Poco Denaro",
+      "def": "Spanish-inflected crew lament: 'lots of work, very little money.' A sentiment shared universally across departments and nationalities.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Myuzo",
+      "def": "Crew slang for a shipboard musician — entertainment department staff who occupy a distinct social tier among crew.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Next Cruise",
+      "def": "Crew expression meaning 'it's not happening' or 'ask me later' — a firm but polite dismissal. Also called out in elevators to leave other crew behind before the doors close.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "No Rice No Power",
+      "def": "A crew motto — particularly among Filipino crew — expressing that rice is non-negotiable fuel for the workload. Part practical, part joke.",
+      "type": "crew",
+      "cat": "Crew Jargon",
+      "context": "Filipino crew members constitute the largest single nationality group on most major vessels, particularly in housekeeping and food and beverage. The phrase circulates widely in crew social media and accounts."
+    },
+    {
+      "term": "Opening Water-Tight Doors",
+      "def": "Crew euphemism for a sexual encounter in a cabin. The phrase also carries a more specific implication: a crew member — often a woman — securing a promotion or preferential treatment by sleeping with a superior officer.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Same Shit, Same Ship",
+      "def": "A crew mantra for the repetition of contract life — the same route, the same schedule, the same complaints from the same categories of passenger, every week.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Screw Bar",
+      "def": "Crew nickname for the crew bar — referencing both what happens there socially and the general disposition of regulars.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "SLF",
+      "def": "Self-Loading Freight — the most reductive crew acronym for passengers. Used in contexts where 'Pax' would be too charitable. Borrowed from aviation.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Stripe Chaser / Stripe Hunter",
+      "def": "A crew member — or occasionally a passenger — who specifically pursues romantic or sexual relationships with officers based on rank, measured in epaulette stripes. Both terms are in active use.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Taka-Taka",
+      "def": "Crew slang for idle gossip, meaningless chatter, or nonsense talk. The word itself sounds like what it describes.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Troso",
+      "def": "Spanish for 'log of wood' — crew slang for a colleague or passenger who is exceptionally slow to understand instructions or grasp a straightforward situation.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Watching DVDs",
+      "def": "Crew euphemism for a sexual encounter in a cabin. The reasoning: ship satellite internet is too slow and expensive to actually stream anything, so if someone is 'watching DVDs,' they are not watching DVDs.",
+      "type": "crew",
+      "cat": "Crew Jargon"
+    },
+    {
+      "term": "Code Baby Ruth",
+      "def": "Carnival Cruise Line's internal code for a fecal incident in a pool — named after the candy bar scene in Caddyshack. Triggers immediate pool evacuation and sanitation response.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Code Brown",
+      "def": "Crew code for a fecal accident in a pool or public area, requiring immediate evacuation and deep sanitation. Used across multiple lines; line-specific variants include Code Baby Ruth (Carnival) and Code Winnie (Disney).",
+      "type": "crew",
+      "cat": "Codes & Signals",
+      "context": "Distinct from Code Yellow (vomit). Both require sanitation response; Code Brown typically also triggers pool closure."
+    },
+    {
+      "term": "Code Charlie",
+      "def": "A security threat onboard or near the vessel — bomb threat, suspicious package, or approaching external threat. Triggers security and command response.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Code Delta",
+      "def": "Significant damage to the ship's hull or a major biohazard event. A structural or containment emergency requiring damage-control response.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Code Echo",
+      "def": "A collision threat, dangerous wind event in port, or alert that the ship is beginning to drift from its berth. Triggers bridge and deck response.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Code Kilo",
+      "def": "An instruction for all crew to report immediately to their designated emergency stations. Typically precedes or accompanies a broader emergency activation.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Code Winnie",
+      "def": "Disney Cruise Line's line-specific code for a fecal incident in the pool. A branded variant of Code Brown, named with Disney's characteristic approach to making everything proprietary.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "Code Yellow",
+      "def": "Crew code for a vomiting incident in a public area. Communicated via PA or radio to summon the sanitation team. Frequency increases on rough sea days and open-bar sailings.",
+      "type": "crew",
+      "cat": "Codes & Signals",
+      "context": "On Celebrity Cruises this is paged as 'Purell' followed by a deck and location — e.g., 'Purell, Deck 4, Midship.' See also: Purell."
+    },
+    {
+      "term": "Fallen Star",
+      "def": "A discreet crew code indicating a passenger death onboard. One of a family of 'Star' codes used across the industry for severe medical emergencies and deaths.",
+      "type": "crew",
+      "cat": "Codes & Signals",
+      "context": "Emergency codes vary by line. Fallen Star specifically signals death. Operation Rising Star and Operation Bright Star — used notably by lines including Carnival and Disney — can indicate either a life-threatening medical emergency or a death. All three are legitimate industry terms for the same category of event."
+    },
+    {
+      "term": "Purell",
+      "def": "A PA or radio code — used notably on Celebrity Cruises — to summon a sanitation team to a specific location for biohazard cleanup, most often vomit. Named for the hand sanitizer brand. Equivalent to Code Yellow on other lines.",
+      "type": "crew",
+      "cat": "Codes & Signals"
+    },
+    {
+      "term": "CW — Cruise Whiners",
+      "def": "Forum abbreviation for passengers who complain relentlessly about minor inconveniences — food quality, noise, wait times — typically on social media or review platforms during or after the sailing.",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "DH / DW / DD / DS",
+      "def": "Forum abbreviations for Dear Husband, Dear Wife, Dear Daughter, Dear Son. Standard shorthand across Cruise Critic and Facebook cruise groups. 'Dear' is occasionally replaced with 'Damn' depending on context.",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "MILF",
+      "def": "Cruise forum repurposing of a well-known acronym: 'Marinas I Like to Frequent.' The alternative meaning is understood by all parties involved.",
+      "type": "passenger",
+      "cat": "Abbreviations & Forum Speak"
+    },
+    {
+      "term": "Door Décor",
+      "def": "The custom of personalizing a cabin door with themed magnets, signs, or banners — for decoration and to identify your stateroom in a corridor of identical doors.",
+      "type": "passenger",
+      "cat": "Social Rituals & Events",
+      "context": "Particularly common on Carnival and Disney sailings. Magnets are the dominant format since adhesives damage cabin doors and are prohibited. The Magnet Stealer archetype exists entirely because of this custom."
+    }
+  ]
+}
